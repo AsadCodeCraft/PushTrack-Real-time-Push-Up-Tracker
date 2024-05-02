@@ -14,12 +14,9 @@ PushTrack is a real-time push-up tracking application built using Flask, the Mov
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pushtrack.git
+git clone https://github.com/AsadCodeCraft/PushTrack-Real-time-Push-Up-Tracker.git
 ```
 2. Install dependencies:
-```bash
-cd pushtrack
-```
 ```bash
 pip install -r requirements.txt
 ```
